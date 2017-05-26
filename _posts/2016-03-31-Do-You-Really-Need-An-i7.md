@@ -7,6 +7,7 @@ author:     "Shikher Verma"
 header-img: "img/posts/chip-bg.jpg"
 comments: false
 tags: [ CodeMonkey ]
+published: false
 ---
 
 ## When Raspberry Pi 2 and Odroid U3 fail you. What next ? Back to x64.
