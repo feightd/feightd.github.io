@@ -7,6 +7,7 @@ author:     "Shikher Verma"
 header-img: "img/posts/jekyll-bg.jpg"
 comments: false
 tags: [ CodeMonkey ]
+published: false
 ---
 
 **Note : Click <a href="#customize">this</a> to skip to the part where I explain about customizing this theme for your use.**
