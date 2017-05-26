@@ -1,7 +1,14 @@
 ---
-published: false
+layout: post
+title: "Physical Layer Notes"
+subtitle: "Physical limitation of what can be sent over the transmission channel."
+date: 2017-05-25 19:17:00
+author: "8D"
+header-img: 
+comments: true
+tags: 
+published: true
 ---
-Physical limitation of what can be sent over the transmission channel.
 
 ## 2.1.1 Fourier Analysis
 - A data signal can be handled by just imagining that it repeats the entire pattern over and over.
