@@ -5,7 +5,7 @@ subtitle:   "Convincing people that your robot need more cpu power."
 date:       2016-03-30 4:17:00
 author:     "Shikher Verma"
 header-img: "img/posts/chip-bg.jpg"
-comments: true
+comments: false
 tags: [ CodeMonkey ]
 ---
 
