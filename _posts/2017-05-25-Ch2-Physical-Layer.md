@@ -6,7 +6,7 @@ date: 2017-05-25 19:17:00
 author: "8D"
 header-img: 
 comments: true
-tags: Learning, Networking
+tags: Learning Networking
 published: true
 ---
 
