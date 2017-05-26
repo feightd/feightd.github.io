@@ -5,7 +5,7 @@ subtitle:   "The Birth of yet another jekyll blog, which would be soon lost in o
 date:       2016-03-27 17:00:00
 author:     "Shikher Verma"
 header-img: "img/posts/jekyll-bg.jpg"
-comments: true
+comments: false
 tags: [ CodeMonkey ]
 ---
 
