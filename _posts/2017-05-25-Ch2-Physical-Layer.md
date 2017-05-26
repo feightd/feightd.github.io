@@ -24,8 +24,8 @@ published: true
 	- Attenuated: reduce the amplitude of (a signal, electric current, or other oscillation).
 - **Filters** are often used to further limit the bandwidth of a signal.
 	- Example: 802.11 channels are allowed roughly up to 20 MHz, allowing more channels within the spectrum.
-			- Signals that run from 0 up to a maximum frequency are called baseband signals.
-			- Passband signals are signals that are shifted to occupy a higher range of frequencies.
+		- Signals that run from 0 up to a maximum frequency are called baseband signals.
+		- Passband signals are signals that are shifted to occupy a higher range of frequencies.
             
 ## 2.1.2 Bandwidth-Limited Signals
 - To electrical engineers, (analog) bandwidth is (as we have described above) a quantity measured in Hz. To computer scientists, (digital) bandwidth is the maximum data rate of a channel, a quantity measured in bits/sec.
@@ -35,7 +35,7 @@ published: true
 	- Units of this log scale are called **decibles (dB)**.
     
 ## 2.2.1 Magnetic Tapes
-- _Never underestimate the bandwidth of a station wagon full of tapes hurling down the highway.
+- Never underestimate the bandwidth of a station wagon full of tapes hurling down the highway.
 
 ## 2.2.2 Twisted Pairs
 - A Twisted pair consists of two insulated copper wires, typically about 1 mm thick.
